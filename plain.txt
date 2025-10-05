@@ -1,0 +1,12 @@
+LushanA2-clientside/
+├── index.html          # 首页
+├── search.html         # 搜索页
+├── event-details.html  # 活动详情页
+├── css/
+│   └── style.css       # 所有页面的样式（统一风格）
+├── js/
+│   ├── home.js         # 首页逻辑（加载活动列表）
+│   ├── search.js       # 搜索页逻辑（筛选、重置）
+│   ├── event-details.js # 详情页逻辑（加载活动详情、注册弹窗）
+│   └── common.js       # 公共逻辑（导航栏、API请求函数）
+└── images/             # 图片资源（活动封面、机构Logo，可选）
